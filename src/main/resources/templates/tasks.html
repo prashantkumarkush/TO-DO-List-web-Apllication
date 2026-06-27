@@ -34,7 +34,7 @@
     			    <span th:classappend="${task.completed} ? 'text-strikethrough'" th:text = "${task.title}">Task Title</span>
     			    
     			    <div>
-    			        <a th:href="@{/{id}/toggle(id=${task.id})}" class="btn  btn-outline-secondary btn-sm">Toggle</a>
+    			        <a th:href="@{/{id}/toggle(id=${task.id})}" class="btn  btn-outline-secondary btn-sm">completed</a>
     			         <a th:href="@{/{id}/delete(id=${task.id})}" class="btn btn-outline-secondary btn-sm ml-2">Delete</a>
     			         
     			    </div>
