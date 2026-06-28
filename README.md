@@ -4,6 +4,9 @@ A full-stack **Task Management Web Application** built using **Spring Boot**, **
 
 ---
 
+<img width="1800" height="798" alt="Screenshot 2026-06-27 100310" src="https://github.com/user-attachments/assets/dabda062-663b-41e1-a15e-51d4a218b207" />
+
+
 ## 🚀 Features
 
 * ➕ Add new tasks
