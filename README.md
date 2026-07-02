@@ -1,6 +1,6 @@
 # ✅ TO-DO List Web Application
 
-A full-stack **Task Management Web Application** built using **Spring Boot**, **Hibernate (JPA)**, **MySQL**, and **Thymeleaf**. This application allows users to manage daily tasks with complete CRUD functionality through a clean and responsive web interface.
+A full-stack **Task Management Web Application** where you note your tasks and when completed you togle it. built using **Spring Boot**, **Hibernate (JPA)**, **MySQL**, and **Thymeleaf**. This application allows users to manage daily tasks with complete CRUD functionality through a clean and responsive web interface.
 
 ---
 
